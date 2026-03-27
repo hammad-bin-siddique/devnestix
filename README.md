@@ -1,6 +1,6 @@
 # Devnestix 🚀
 
-A modern and responsive personal portfolio website built with pure HTML & CSS.
+A modern and responsive personal portfolio website built with pure HTML & CSS.  
 Designed to showcase skills, services, and work portfolio.
 
 ## 📸 Screenshots
@@ -31,18 +31,35 @@ Designed to showcase skills, services, and work portfolio.
 ---
 
 ## 📁 Project Structure
-```
+
 Devnestix/
+
 ├── index.html
+
 ├── style.css
+
 ├── images/
+
 └── screenshots/
-```
+
+
+---
+
+## 🌐 Links
+
+- GitHub Repository: [https://github.com/hammad-bin-siddique/devnestix](https://github.com/hammad-bin-siddique/devnestix)
+- Live Demo: [https://devnestix.vercel.app/](https://devnestix.vercel.app/)
 
 ---
 
 ## 👨‍💻 Designed & Developed By
 
-**Hammad Siddique** — [@Itxhammad](https://github.com/Itxhammad)
+**Hammad Siddique** — [GitHub](https://github.com/hammad-bin-siddique)
+
+---
+
+## 📱 Contact
+
+- WhatsApp: [+92 324 5469030](https://wa.me/923245469030)
 
 © 2025 Devnestix. All Rights Reserved.
